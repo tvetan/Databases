@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sales>
+  <sale vendor="Coca Cola Corp." />
+  <sale vendor="Nestle Sofia Corp." />
+  <sale vendor="Zagorka Corp." />
+  <sale vendor="Targovishte Bottling Company Ltd." />
+  <sale vendor="Gorna Banya Ltd." />
+  <sale vendor="Bankya Bottling Company." />
+  <sale vendor="Vuicho Vanyo Ltd.." />
+  <sale vendor="KEN Corp." />
+  <sale vendor="Terter Inc." />
+  <sale vendor="Bulgarea Ltd." />
+  <sale vendor="Magic Mop Ltd." />
+  <sale vendor="Craft Foods Int." />
+  <sale vendor="Vereya Ltd." />
+  <sale vendor="Pepsi Co." />
+  <sale vendor="United Distillers Group" />
+  <sale vendor="British Tobacco Inc." />
+  <sale vendor="Domayn Boyar Ltd." />
+  <sale vendor="Food Inc." />
+  <sale vendor="Clever Inc." />
+</Sales>

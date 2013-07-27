@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sales>
+  <sale vendor="Coca Cola Corp.">
+    <summary date="20-Jul-2013" total-sum="37.00" />
+    <summary date="20-Jul-2013" total-sum="59.80" />
+    <summary date="21-Jul-2013" total-sum="11.00" />
+    <summary date="21-Jul-2013" total-sum="71.76" />
+    <summary date="21-Jul-2013" total-sum="128.48" />
+    <summary date="22-Jul-2013" total-sum="16.00" />
+    <summary date="22-Jul-2013" total-sum="82.80" />
+    <summary date="22-Jul-2013" total-sum="202.40" />
+  </sale>
+  <sale vendor="Nestle Sofia Corp.">
+    <summary date="20-Jul-2013" total-sum="119.00" />
+    <summary date="20-Jul-2013" total-sum="31.20" />
+    <summary date="21-Jul-2013" total-sum="170.00" />
+    <summary date="21-Jul-2013" total-sum="515.90" />
+    <summary date="21-Jul-2013" total-sum="23.40" />
+    <summary date="22-Jul-2013" total-sum="204.00" />
+    <summary date="22-Jul-2013" total-sum="92.40" />
+    <summary date="20-Jul-2013" total-sum="48.00" />
+    <summary date="21-Jul-2013" total-sum="51.60" />
+    <summary date="21-Jul-2013" total-sum="78.75" />
+    <summary date="22-Jul-2013" total-sum="21.60" />
+    <summary date="22-Jul-2013" total-sum="63.00" />
+    <summary date="20-Jul-2013" total-sum="34.80" />
+    <summary date="20-Jul-2013" total-sum="19.95" />
+    <summary date="21-Jul-2013" total-sum="26.10" />
+    <summary date="21-Jul-2013" total-sum="14.25" />
+    <summary date="22-Jul-2013" total-sum="40.60" />
+  </sale>
+  <sale vendor="Zagorka Corp." />
+  <sale vendor="Targovishte Bottling Company Ltd." />
+  <sale vendor="Gorna Banya Ltd." />
+  <sale vendor="Bankya Bottling Company." />
+  <sale vendor="Vuicho Vanyo Ltd.." />
+  <sale vendor="KEN Corp." />
+  <sale vendor="Terter Inc." />
+  <sale vendor="Bulgarea Ltd." />
+  <sale vendor="Magic Mop Ltd." />
+  <sale vendor="Craft Foods Int." />
+  <sale vendor="Vereya Ltd." />
+  <sale vendor="Pepsi Co." />
+  <sale vendor="United Distillers Group" />
+  <sale vendor="British Tobacco Inc." />
+  <sale vendor="Domayn Boyar Ltd." />
+  <sale vendor="Food Inc." />
+  <sale vendor="Clever Inc." />
+</Sales>

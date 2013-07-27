@@ -1,0 +1,143 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermarket.Data", "Supermarket.Data\Supermarket.Data.csproj", "{2CA48D85-EB2C-479C-B986-D183B1863C44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMarket.Model", "SuperMarket.Model\SuperMarket.Model.csproj", "{DEFEE539-24F0-493D-A351-0A7FA31551BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermakets.Client", "Supermakets.Client\Supermakets.Client.csproj", "{631DA74B-E858-42A5-9EBC-6344F4D64B69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductsData.Model", "ProductsData.Model\ProductsData.Model.csproj", "{C50145E6-A244-4F1F-B41F-90D1925B4A00}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProductsDataMySQL", "ProductsDataMySQL", "{0F144EF8-DF12-4497-89FC-7751D701FB48}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SupermarketDB", "SupermarketDB", "{22963C53-FDD6-43C9-A982-34713F424043}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFGenerator", "PDFGenerator\PDFGenerator.csproj", "{EF053A9B-C468-4A43-8301-E0D4FBCDB590}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.XmlGeneration", "03.XmlGeneration", "{22589854-2A44-4D23-BEF8-D3E2098E712B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlClient", "XmlClient\XmlClient.csproj", "{6F331899-C745-4947-B531-ACD56A1811B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.ProductReports", "04.ProductReports", "{41E055DF-6CE6-4091-B6CB-E724E12EBA70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductReports.Client", "ProductReports.Client\ProductReports.Client.csproj", "{2D88132C-AED1-4146-AFB5-7935C2039E86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlExpenses", "XmlExpenses\XmlExpenses.csproj", "{725CB78D-11F7-4471-B7D8-C464C4E92686}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Imports", "Imports", "{08405D4B-582B-4912-9A80-65A670EF3D4A}"
+	ProjectSection(SolutionItems) = preProject
+		imports\Vendors-Expenses.xml = imports\Vendors-Expenses.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.VendorLastReport", "06.VendorLastReport", "{6E28FD21-4662-4312-8595-74BBCCE2398B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendorLastReport.Client", "VendorLastReport.Client\VendorLastReport.Client.csproj", "{67352BD1-B85E-4459-B291-85F08B8C5983}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateTaxedExcel", "GenerateTaxedExcel\GenerateTaxedExcel.csproj", "{D8B3097B-B80A-4CD6-93F0-1E3CD04018FA}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 11
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs33
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Supermakets.Client\\Supermakets.Client.csproj
+		SccProjectName1 = Supermakets.Client
+		SccLocalPath1 = Supermakets.Client
+		SccProjectUniqueName2 = Supermarket.Data\\Supermarket.Data.csproj
+		SccProjectTopLevelParentUniqueName2 = SuperMarketDatabaseGeneration.sln
+		SccProjectName2 = Supermarket.Data
+		SccLocalPath2 = Supermarket.Data
+		SccProjectUniqueName3 = SuperMarket.Model\\SuperMarket.Model.csproj
+		SccProjectTopLevelParentUniqueName3 = SuperMarketDatabaseGeneration.sln
+		SccProjectName3 = SuperMarket.Model
+		SccLocalPath3 = SuperMarket.Model
+		SccProjectUniqueName4 = ProductsData.Model\\ProductsData.Model.csproj
+		SccProjectTopLevelParentUniqueName4 = SuperMarketDatabaseGeneration.sln
+		SccProjectName4 = ProductsData.Model
+		SccLocalPath4 = ProductsData.Model
+		SccProjectUniqueName5 = XmlClient\\XmlClient.csproj
+		SccProjectTopLevelParentUniqueName5 = SuperMarketDatabaseGeneration.sln
+		SccProjectName5 = XmlClient
+		SccLocalPath5 = XmlClient
+		SccProjectUniqueName6 = ProductReports.Client\\ProductReports.Client.csproj
+		SccProjectTopLevelParentUniqueName6 = SuperMarketDatabaseGeneration.sln
+		SccProjectName6 = ProductReports.Client
+		SccLocalPath6 = ProductReports.Client
+		SccProjectUniqueName7 = XmlExpenses\\XmlExpenses.csproj
+		SccProjectTopLevelParentUniqueName7 = SuperMarketDatabaseGeneration.sln
+		SccProjectName7 = XmlExpenses
+		SccLocalPath7 = XmlExpenses
+		SccProjectUniqueName8 = PDFGenerator\\PDFGenerator.csproj
+		SccProjectName8 = PDFGenerator
+		SccLocalPath8 = PDFGenerator
+		SccProjectUniqueName9 = VendorLastReport.Client\\VendorLastReport.Client.csproj
+		SccProjectTopLevelParentUniqueName9 = SuperMarketDatabaseGeneration.sln
+		SccProjectName9 = VendorLastReport.Client
+		SccLocalPath9 = VendorLastReport.Client
+		SccProjectUniqueName10 = GenerateTaxedExcel\\GenerateTaxedExcel.csproj
+		SccProjectTopLevelParentUniqueName10 = SuperMarketDatabaseGeneration.sln
+		SccProjectName10 = GenerateTaxedExcel
+		SccLocalPath10 = GenerateTaxedExcel
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CA48D85-EB2C-479C-B986-D183B1863C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CA48D85-EB2C-479C-B986-D183B1863C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CA48D85-EB2C-479C-B986-D183B1863C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CA48D85-EB2C-479C-B986-D183B1863C44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEFEE539-24F0-493D-A351-0A7FA31551BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFEE539-24F0-493D-A351-0A7FA31551BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFEE539-24F0-493D-A351-0A7FA31551BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFEE539-24F0-493D-A351-0A7FA31551BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{631DA74B-E858-42A5-9EBC-6344F4D64B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{631DA74B-E858-42A5-9EBC-6344F4D64B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{631DA74B-E858-42A5-9EBC-6344F4D64B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{631DA74B-E858-42A5-9EBC-6344F4D64B69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C50145E6-A244-4F1F-B41F-90D1925B4A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C50145E6-A244-4F1F-B41F-90D1925B4A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C50145E6-A244-4F1F-B41F-90D1925B4A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C50145E6-A244-4F1F-B41F-90D1925B4A00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF053A9B-C468-4A43-8301-E0D4FBCDB590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF053A9B-C468-4A43-8301-E0D4FBCDB590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF053A9B-C468-4A43-8301-E0D4FBCDB590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF053A9B-C468-4A43-8301-E0D4FBCDB590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F331899-C745-4947-B531-ACD56A1811B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F331899-C745-4947-B531-ACD56A1811B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F331899-C745-4947-B531-ACD56A1811B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F331899-C745-4947-B531-ACD56A1811B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D88132C-AED1-4146-AFB5-7935C2039E86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D88132C-AED1-4146-AFB5-7935C2039E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D88132C-AED1-4146-AFB5-7935C2039E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D88132C-AED1-4146-AFB5-7935C2039E86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{725CB78D-11F7-4471-B7D8-C464C4E92686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{725CB78D-11F7-4471-B7D8-C464C4E92686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{725CB78D-11F7-4471-B7D8-C464C4E92686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{725CB78D-11F7-4471-B7D8-C464C4E92686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67352BD1-B85E-4459-B291-85F08B8C5983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67352BD1-B85E-4459-B291-85F08B8C5983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67352BD1-B85E-4459-B291-85F08B8C5983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67352BD1-B85E-4459-B291-85F08B8C5983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B3097B-B80A-4CD6-93F0-1E3CD04018FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B3097B-B80A-4CD6-93F0-1E3CD04018FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B3097B-B80A-4CD6-93F0-1E3CD04018FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B3097B-B80A-4CD6-93F0-1E3CD04018FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DEFEE539-24F0-493D-A351-0A7FA31551BA} = {22963C53-FDD6-43C9-A982-34713F424043}
+		{2CA48D85-EB2C-479C-B986-D183B1863C44} = {22963C53-FDD6-43C9-A982-34713F424043}
+		{725CB78D-11F7-4471-B7D8-C464C4E92686} = {22963C53-FDD6-43C9-A982-34713F424043}
+		{C50145E6-A244-4F1F-B41F-90D1925B4A00} = {0F144EF8-DF12-4497-89FC-7751D701FB48}
+		{6F331899-C745-4947-B531-ACD56A1811B8} = {22589854-2A44-4D23-BEF8-D3E2098E712B}
+		{2D88132C-AED1-4146-AFB5-7935C2039E86} = {41E055DF-6CE6-4091-B6CB-E724E12EBA70}
+		{67352BD1-B85E-4459-B291-85F08B8C5983} = {6E28FD21-4662-4312-8595-74BBCCE2398B}
+		{D8B3097B-B80A-4CD6-93F0-1E3CD04018FA} = {6E28FD21-4662-4312-8595-74BBCCE2398B}
+	EndGlobalSection
+EndGlobal
