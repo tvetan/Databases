@@ -1,0 +1,44 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using MongoDB.Bson;
+using MongoDB.Driver;
+using MongoDB.Driver.Builders;
+
+namespace MongoTest
+{
+    public class Entity
+    {
+        public ObjectId Id { get; set; }
+
+        public string Name { get; set; }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var connectionString = "mongodb://root:root@dharma.mongohq.com:10037/TvetanTest";
+            var client = new MongoClient(connectionString);
+            var server = client.GetServer();
+            MongoDatabase db = server.GetDatabase("TvetanTest");
+            var storage = db.GetCollection("items");
+
+            BsonDocument document = new BsonDocument
+            {
+                { "name", "pesho" },
+                { "age", 33 }
+            };
+
+            storage.Insert<BsonDocument>(document);
+
+
+
+            var query = Query.EQ("name", "pesho");
+            Console.WriteLine(query);
+            // server.Disconnect();
+        }
+    }
+}
