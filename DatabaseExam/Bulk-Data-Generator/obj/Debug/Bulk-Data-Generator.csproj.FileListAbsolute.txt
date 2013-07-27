@@ -1,0 +1,10 @@
+C:\Users\1\Desktop\Bookmarks\Bulk-Data-Generator\bin\Debug\Bulk-Data-Generator.exe.config
+C:\Users\1\Desktop\Bookmarks\Bulk-Data-Generator\bin\Debug\Bulk-Data-Generator.exe
+C:\Users\1\Desktop\Bookmarks\Bulk-Data-Generator\bin\Debug\Bulk-Data-Generator.pdb
+C:\Users\1\Desktop\Bookmarks\Bulk-Data-Generator\bin\Debug\Bookmarks.Data.dll
+C:\Users\1\Desktop\Bookmarks\Bulk-Data-Generator\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\Bookmarks\Bulk-Data-Generator\bin\Debug\Bookmarks.Data.pdb
+C:\Users\1\Desktop\Bookmarks\Bulk-Data-Generator\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\Bookmarks\Bulk-Data-Generator\obj\Debug\Bulk-Data-Generator.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Bookmarks\Bulk-Data-Generator\obj\Debug\Bulk-Data-Generator.exe
+C:\Users\1\Desktop\Bookmarks\Bulk-Data-Generator\obj\Debug\Bulk-Data-Generator.pdb

@@ -1,0 +1,4 @@
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\07.LogsModel\bin\Debug\07.LogsModel.dll
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\07.LogsModel\bin\Debug\07.LogsModel.pdb
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\07.LogsModel\obj\Debug\07.LogsModel.dll
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\07.LogsModel\obj\Debug\07.LogsModel.pdb

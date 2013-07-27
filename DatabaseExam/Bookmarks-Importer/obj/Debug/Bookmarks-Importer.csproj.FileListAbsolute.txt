@@ -1,0 +1,10 @@
+C:\Users\1\Desktop\Bookmarks\Bookmarks-Importer\bin\Debug\Bookmarks-Importer.exe.config
+C:\Users\1\Desktop\Bookmarks\Bookmarks-Importer\bin\Debug\Bookmarks-Importer.exe
+C:\Users\1\Desktop\Bookmarks\Bookmarks-Importer\bin\Debug\Bookmarks-Importer.pdb
+C:\Users\1\Desktop\Bookmarks\Bookmarks-Importer\bin\Debug\Bookmarks.Data.dll
+C:\Users\1\Desktop\Bookmarks\Bookmarks-Importer\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\Bookmarks\Bookmarks-Importer\bin\Debug\Bookmarks.Data.pdb
+C:\Users\1\Desktop\Bookmarks\Bookmarks-Importer\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\Bookmarks\Bookmarks-Importer\obj\Debug\Bookmarks-Importer.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Bookmarks\Bookmarks-Importer\obj\Debug\Bookmarks-Importer.exe
+C:\Users\1\Desktop\Bookmarks\Bookmarks-Importer\obj\Debug\Bookmarks-Importer.pdb

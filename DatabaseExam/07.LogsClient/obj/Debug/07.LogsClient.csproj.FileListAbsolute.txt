@@ -1,0 +1,15 @@
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\07.LogsClient\bin\Debug\07.LogsClient.exe.config
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\07.LogsClient\bin\Debug\07.LogsClient.exe
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\07.LogsClient\bin\Debug\07.LogsClient.pdb
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\07.LogsClient\bin\Debug\07.LogsData.dll
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\07.LogsClient\bin\Debug\EntityFramework.dll
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\07.LogsClient\bin\Debug\07.LogsData.pdb
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\07.LogsClient\bin\Debug\EntityFramework.xml
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\07.LogsClient\obj\Debug\07.LogsClient.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\07.LogsClient\obj\Debug\07.LogsClient.exe
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\07.LogsClient\obj\Debug\07.LogsClient.pdb
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\07.LogsClient\bin\Debug\07.LogsModel.dll
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\07.LogsClient\bin\Debug\07.LogsModel.pdb
+C:\Users\1\Desktop\Bookmarks\07.LogsClient\bin\Debug\07.LogsClient.exe.config
+C:\Users\1\Desktop\Bookmarks\07.LogsClient\obj\Debug\07.LogsClient.exe
+C:\Users\1\Desktop\Bookmarks\07.LogsClient\obj\Debug\07.LogsClient.pdb

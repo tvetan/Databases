@@ -1,0 +1,20 @@
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\04.ComplexBooksImport\bin\Debug\04.ComplexBooksImport.exe.config
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\04.ComplexBooksImport\bin\Debug\04.ComplexBooksImport.exe
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\04.ComplexBooksImport\bin\Debug\04.ComplexBooksImport.pdb
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\04.ComplexBooksImport\obj\Debug\04.ComplexBooksImport.exe
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\04.ComplexBooksImport\obj\Debug\04.ComplexBooksImport.pdb
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\04.ComplexBooksImport\bin\Debug\Bookstore.Data.dll
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\04.ComplexBooksImport\bin\Debug\EntityFramework.dll
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\04.ComplexBooksImport\bin\Debug\Bookstore.Data.pdb
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\04.ComplexBooksImport\bin\Debug\EntityFramework.xml
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\04.ComplexBooksImport\obj\Debug\04.ComplexBooksImport.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Bookmarks\04.ComplexBooksImport\bin\Debug\04.ComplexBooksImport.exe.config
+C:\Users\1\Desktop\Bookmarks\04.ComplexBooksImport\obj\Debug\04.ComplexBooksImport.exe
+C:\Users\1\Desktop\Bookmarks\04.ComplexBooksImport\obj\Debug\04.ComplexBooksImport.pdb
+C:\Users\1\Desktop\Bookmarks\04.ComplexBooksImport\bin\Debug\04.ComplexBooksImport.exe
+C:\Users\1\Desktop\Bookmarks\04.ComplexBooksImport\bin\Debug\04.ComplexBooksImport.pdb
+C:\Users\1\Desktop\Bookmarks\04.ComplexBooksImport\bin\Debug\Bookstore.Data.dll
+C:\Users\1\Desktop\Bookmarks\04.ComplexBooksImport\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\Bookmarks\04.ComplexBooksImport\bin\Debug\Bookstore.Data.pdb
+C:\Users\1\Desktop\Bookmarks\04.ComplexBooksImport\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\Bookmarks\04.ComplexBooksImport\obj\Debug\04.ComplexBooksImport.csprojResolveAssemblyReference.cache

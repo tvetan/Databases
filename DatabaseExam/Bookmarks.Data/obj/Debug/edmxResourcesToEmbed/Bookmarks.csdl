@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BookmarksModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="BookmarksEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Bookmarks" EntityType="BookmarksModel.Bookmark" />
+    <EntitySet Name="Tags" EntityType="BookmarksModel.Tag" />
+    <EntitySet Name="Users" EntityType="BookmarksModel.User" />
+    <AssociationSet Name="FK_Bookmarks_Users" Association="BookmarksModel.FK_Bookmarks_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Bookmarks" EntitySet="Bookmarks" />
+    </AssociationSet>
+    <AssociationSet Name="Bookmarks_Tags" Association="BookmarksModel.Bookmarks_Tags">
+      <End Role="Bookmarks" EntitySet="Bookmarks" />
+      <End Role="Tags" EntitySet="Tags" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Bookmark">
+    <Key>
+      <PropertyRef Name="BookmarkId" />
+    </Key>
+    <Property Name="BookmarkId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" Nullable="false" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="URL" Type="String" Nullable="false" MaxLength="256" Unicode="false" FixedLength="false" />
+    <Property Name="Notes" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="User" Relationship="BookmarksModel.FK_Bookmarks_Users" FromRole="Bookmarks" ToRole="Users" />
+    <NavigationProperty Name="Tags" Relationship="BookmarksModel.Bookmarks_Tags" FromRole="Bookmarks" ToRole="Tags" />
+  </EntityType>
+  <EntityType Name="Tag">
+    <Key>
+      <PropertyRef Name="TagId" />
+    </Key>
+    <Property Name="TagId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="100" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Bookmarks" Relationship="BookmarksModel.Bookmarks_Tags" FromRole="Tags" ToRole="Bookmarks" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" Nullable="false" MaxLength="30" Unicode="false" FixedLength="false" />
+    <Property Name="PasswordHash" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Name" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Bookmarks" Relationship="BookmarksModel.FK_Bookmarks_Users" FromRole="Users" ToRole="Bookmarks" />
+  </EntityType>
+  <Association Name="FK_Bookmarks_Users">
+    <End Role="Users" Type="BookmarksModel.User" Multiplicity="1" />
+    <End Role="Bookmarks" Type="BookmarksModel.Bookmark" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Bookmarks">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Bookmarks_Tags">
+    <End Role="Bookmarks" Type="BookmarksModel.Bookmark" Multiplicity="*" />
+    <End Role="Tags" Type="BookmarksModel.Tag" Multiplicity="*" />
+  </Association>
+</Schema>

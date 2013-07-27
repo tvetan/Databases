@@ -1,0 +1,20 @@
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\03.BooksImporting\bin\Debug\03.BooksImporting.exe.config
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\03.BooksImporting\obj\Debug\03.BooksImporting.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\03.BooksImporting\bin\Debug\03.BooksImporting.exe
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\03.BooksImporting\bin\Debug\03.BooksImporting.pdb
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\03.BooksImporting\obj\Debug\03.BooksImporting.exe
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\03.BooksImporting\obj\Debug\03.BooksImporting.pdb
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\03.BooksImporting\bin\Debug\Bookstore.Data.dll
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\03.BooksImporting\bin\Debug\EntityFramework.dll
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\03.BooksImporting\bin\Debug\Bookstore.Data.pdb
+C:\Users\1\Documents\Visual Studio 2012\Projects\Database-Exam\03.BooksImporting\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\Bookmarks\03.BooksImporting\bin\Debug\03.BooksImporting.exe.config
+C:\Users\1\Desktop\Bookmarks\03.BooksImporting\obj\Debug\03.BooksImporting.exe
+C:\Users\1\Desktop\Bookmarks\03.BooksImporting\obj\Debug\03.BooksImporting.pdb
+C:\Users\1\Desktop\Bookmarks\03.BooksImporting\bin\Debug\03.BooksImporting.exe
+C:\Users\1\Desktop\Bookmarks\03.BooksImporting\bin\Debug\03.BooksImporting.pdb
+C:\Users\1\Desktop\Bookmarks\03.BooksImporting\bin\Debug\Bookstore.Data.dll
+C:\Users\1\Desktop\Bookmarks\03.BooksImporting\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\Bookmarks\03.BooksImporting\bin\Debug\Bookstore.Data.pdb
+C:\Users\1\Desktop\Bookmarks\03.BooksImporting\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\Bookmarks\03.BooksImporting\obj\Debug\03.BooksImporting.csprojResolveAssemblyReference.cache

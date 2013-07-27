@@ -1,0 +1,10 @@
+C:\Users\1\Desktop\Bookmarks\Bookmark-Search\bin\Debug\Bookmark-Search.exe.config
+C:\Users\1\Desktop\Bookmarks\Bookmark-Search\bin\Debug\Bookmark-Search.exe
+C:\Users\1\Desktop\Bookmarks\Bookmark-Search\bin\Debug\Bookmark-Search.pdb
+C:\Users\1\Desktop\Bookmarks\Bookmark-Search\bin\Debug\Bookmarks.Data.dll
+C:\Users\1\Desktop\Bookmarks\Bookmark-Search\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\Bookmarks\Bookmark-Search\bin\Debug\Bookmarks.Data.pdb
+C:\Users\1\Desktop\Bookmarks\Bookmark-Search\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\Bookmarks\Bookmark-Search\obj\Debug\Bookmark-Search.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Bookmarks\Bookmark-Search\obj\Debug\Bookmark-Search.exe
+C:\Users\1\Desktop\Bookmarks\Bookmark-Search\obj\Debug\Bookmark-Search.pdb
