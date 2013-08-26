@@ -1,0 +1,14 @@
+1. В web.config под   <connectionStrings>
+    <add name="BattleGameEntities" connectionString="metadata=res://*/Data.BattleGameModel.csdl|res://*/Data.BattleGameModel.ssdl|res://*/Data.BattleGameModel.msl;provider=System.Data.SQLite;provider connection string=&quot;data source=|DataDirectory|\BattleGame.db&quot;" providerName="System.Data.EntityClient" />
+  </connectionStrings>
+
+Се слага:
+
+ <system.data>
+    <DbProviderFactories>
+      <remove invariant="System.Data.SQLite" />
+      <add name="SQLite Data Provider" invariant="System.Data.SQLite" description=".Net Framework Data Provider for SQLite" type="System.Data.SQLite.SQLiteFactory, System.Data.SQLite" />
+    </DbProviderFactories>
+  </system.data>
+
+2. Качете си пакета System.Data.SQLite x86/x64  от нугета и сте готови:)
