@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Supermarkets.Data
 {
@@ -26,7 +24,6 @@ namespace Supermarkets.Data
         {
             get { return this.products; }
             set { this.products = value; }
-        }
-        
+        }    
     }
 }

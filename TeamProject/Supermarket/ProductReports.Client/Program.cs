@@ -15,8 +15,6 @@ namespace ProductReports.Client
 {
     class Program
     {
- 
-
         static void Main()
         {
             var mongoClient = new MongoClient("mongodb://localhost/");

@@ -1,0 +1,8 @@
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\ProductsData.Model\bin\Debug\ProductsData.Model.dll.config
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\ProductsData.Model\bin\Debug\ProductsData.Model.dll
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\ProductsData.Model\bin\Debug\ProductsData.Model.pdb
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\ProductsData.Model\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\ProductsData.Model\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\ProductsData.Model\obj\Debug\ProductsData.Model.csprojResolveAssemblyReference.cache
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\ProductsData.Model\obj\Debug\ProductsData.Model.dll
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\ProductsData.Model\obj\Debug\ProductsData.Model.pdb

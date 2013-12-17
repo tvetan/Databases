@@ -1,0 +1,17 @@
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\PDFGenerator\bin\Debug\PDFGenerator.exe.config
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\PDFGenerator\bin\Debug\PDFGenerator.exe
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\PDFGenerator\bin\Debug\PDFGenerator.pdb
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\PDFGenerator\bin\Debug\EntityFramework.dll
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\PDFGenerator\bin\Debug\itextsharp.dll
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\PDFGenerator\bin\Debug\Supermarket.Data.dll
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\PDFGenerator\bin\Debug\SuperMarket.Model.dll
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\PDFGenerator\bin\Debug\ProductsData.Model.dll
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\PDFGenerator\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\PDFGenerator\bin\Debug\Supermarket.Data.pdb
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\PDFGenerator\bin\Debug\SuperMarket.Model.pdb
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\PDFGenerator\bin\Debug\EntityFramework.xml
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\PDFGenerator\bin\Debug\ProductsData.Model.pdb
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\PDFGenerator\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\PDFGenerator\obj\Debug\PDFGenerator.csprojResolveAssemblyReference.cache
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\PDFGenerator\obj\Debug\PDFGenerator.exe
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\PDFGenerator\obj\Debug\PDFGenerator.pdb

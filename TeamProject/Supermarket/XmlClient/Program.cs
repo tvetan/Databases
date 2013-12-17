@@ -18,25 +18,26 @@ namespace XmlClient
             using (superMarketContext)
             {
                 var allVendors = superMarketContext.Vendors.ToList();
-                foreach (var item in allVendors)
+                foreach (var vendor in allVendors)
                 {
-                    var products = item.Products.ToList();
+                    var products = vendor.Products.ToList();
                     List<List<Order>> orders = new List<List<Order>>();
 
                     foreach (var order in products)
                     {
                         orders.Add(order.Orders.ToList());
                     }
-                    XElement saleElement =
-                        new XElement("sale", new XAttribute("vendor", item.Name));
 
-                    foreach (var item1 in orders)
+                    XElement saleElement =
+                        new XElement("sale", new XAttribute("vendor", vendor.Name));
+
+                    foreach (var order in orders)
                     {
-                        foreach (var item2 in item1)
+                        foreach (var item in order)
                         {
                             XElement added = new XElement("summary",
-                                new XAttribute("date", item2.Date.ToString("dd-MMM-yyyy",
-                                    CultureInfo.InvariantCulture)), new XAttribute("total-sum", item2.Sum)
+                                new XAttribute("date", item.Date.ToString("dd-MMM-yyyy",
+                                    CultureInfo.InvariantCulture)), new XAttribute("total-sum", item.Sum)
                                 );
 
                             saleElement.Add(added);

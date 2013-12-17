@@ -1,0 +1,5 @@
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\Supermarket.Data\bin\Debug\Supermarket.Data.dll
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\Supermarket.Data\bin\Debug\Supermarket.Data.pdb
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.csprojResolveAssemblyReference.cache
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.dll
+E:\GithubRepositories\Photoshop\Databases\TeamProject\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.pdb

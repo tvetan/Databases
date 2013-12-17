@@ -11,6 +11,5 @@ namespace GenerateTaxedExcel
         public decimal TotalIncome { get; set; }
 
         public int QuantitySold { get; set; }
-
     }
 }

@@ -26,28 +26,7 @@ namespace VendorLastReport.Client
                            select w;
 
             FillingData();
-            //foreach (var product in products)
-            //{
-            //    AddProduct(product.Id, product.Name, product.VendorName,
-            //        product.QuantitySold, product.TotalIncome);
 
-            //    Console.WriteLine(product);
-            //}
-
-            //var productsByVendors =
-            //    from p in collection.AsQueryable<Product>()
-
-            //    select p;
-
-            //var vends = productsByVendors.ToList().GroupBy(v => v.VendorName).Select(x => x);
-
-            //foreach (var vend in vends)
-            //{
-            //    Console.WriteLine(vend.Key);
-            //}
-
-            
-            
             OleDbConnectionStringBuilder csbuilder = new OleDbConnectionStringBuilder();
             csbuilder.Provider = "Microsoft.ACE.OLEDB.12.0";
             csbuilder.DataSource = @"..\..\Products-Total-Report.xlsx";

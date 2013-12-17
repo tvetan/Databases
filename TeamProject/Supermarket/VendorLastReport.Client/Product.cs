@@ -2,11 +2,12 @@ namespace VendorLastReport.Client
 {
     public class Product
     {
-        //      "product-id" : 1,
-        //"product-name" : "Beer “Zagorka”",
-        //"vendor-name" : "Zagorka Corp.",
-        //"total-quantity-sold" : 673,
-        //"total-incomes" : 609.24
+        // "product-id" : 1,
+        // "product-name" : "Beer “Zagorka”",
+        // "vendor-name" : "Zagorka Corp.",
+        // "total-quantity-sold" : 673,
+        // "total-incomes" : 609.24
+
         public int Id { get; set; }
 
         public string Name { get; set; }
